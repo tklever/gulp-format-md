@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "pretty-remarkable": "^1.0.0",
-    "remarkable": "^1.7.1",
+    "remarkable": "^2.0.0",
     "sections": "^1.0.0",
     "through2": "^2.0.3"
   },
